@@ -1,0 +1,8 @@
+FINAL SUBMISSION CHECKLIST
+[ ] Replace [College Name], [Department Name], [Supervisor Name] and other placeholders.
+[ ] Run the project on your own computer and take screenshots of the application.
+[ ] Include actual metrics from reports/model_comparison.csv.
+[ ] If your college requires real data, replace the synthetic dataset with an authorized, documented dataset.
+[ ] Cite all datasets and external sources used.
+[ ] Review the report, understand the code, and follow your institution's rules on AI assistance.
+[ ] Add your own acknowledgement, certificate page, and formatting according to college guidelines.
